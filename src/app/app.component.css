@@ -17,3 +17,13 @@
   margin-top: 0;
   padding: 12px;
 }
+
+.footer-container {
+  height: 24px;
+  margin-top: -36px;
+}
+
+.footer-content {
+  margin: 0 auto;
+  text-align: center;
+}
